@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/PniAhoV.png" alt="osTicket logo"/>
 </p>
 
-<h1>Azure - Resetting Passwords and Unlocking Accounts on Active Directory</h1>
+<h1>Azure - Resetting Passwords and Unlock User Accounts on Active Directory</h1>
 This tutorial outlines how to unlock, lock, and disable accounts. In addition, it shows how to reset a user's password.<br />
 
 
